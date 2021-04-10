@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Localisation</string>
+    <string name="title">English</string>
+    <string-array name="languages_array">
+        <item>Please select language</item>
+        <item>English World</item>
+        <item>English Australia</item>
+        <item>English China</item>
+        <item>English Canada</item>
+        <item>English Malaysia</item>
+        <item>English Mianma</item>
+    </string-array>
+</resources>
